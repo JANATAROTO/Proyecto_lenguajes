@@ -1,3 +1,3 @@
 # Proyecto_lenguajes
 this is the first proyect
-samuel ageuilar, camila velez
+Samuel Aguilar, Camila Velez
