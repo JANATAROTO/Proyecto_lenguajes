@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(64,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(74,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  menu.cpp
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(64,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(74,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(37): warning C4715: 'menu::agregarusuario': no todas las rutas de acceso de control devuelven un valor
+C:\Proyecto_lenguajes\proyecto1lenguajes\proyecto1lenguajes\menu.cpp(85): warning C4715: 'menu::eliminarusuario': no todas las rutas de acceso de control devuelven un valor
+  proyecto1lenguajes.vcxproj -> C:\Proyecto_lenguajes\proyecto1lenguajes\x64\Debug\proyecto1lenguajes.exe
